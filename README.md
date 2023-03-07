@@ -4,6 +4,8 @@
 
 This is an example
 
+It involves multiple commits, branches and pull request.
+
 ## Author
 
 Gonzalo Brandan
